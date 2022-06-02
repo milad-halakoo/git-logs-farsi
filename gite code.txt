@@ -1,0 +1,42 @@
+1_2.
+    git => Dastorat Git ro vase ma neshon mideh
+
+2_3.
+    git init => install kardan git
+
+3_3.
+    git status => status file haro neshon mideh ke add nashodan be rang ghermez
+
+4_4.
+    git add file1.txt => file1 ro add mikone ke agar git status begirim ono be rang sabz neshon kideh
+    git add . => hame ro add mikone
+
+5_4.
+    git rm --cached file.txt => file1 ro darmiareh
+
+6_5.
+    git commit -m "fix bog"=> vase file ke add kardim yek comment dar nazar migirim
+
+7_5.
+    git config --global user.email "miladhalakoo@gmile.com"
+    git config --global user.name " miladhalakoo"
+        => in 2 dastor moshakash mikone ke che kasi in ro emal kardeh
+
+8_5.
+    git log => comment haro bar migardoneh
+    
+9_5.
+    git commit --amend => az in dastor zamani estefadeh mishe ke ma yek file ro yademon rafteh bashe be commit 
+    ghabli ezafeh konim ba in dastor on ro an jam midim
+
+10_6.
+    git log --oneline
+
+11_7.
+    git ignore => zamani ke bekhahim az file hai sarf nazar konim
+        bayad file bename .gitignore besazim va file hai ke mikhahim sarf nazar konim onja nemashono benevisim
+        gitignore.io
+
+12_8.
+
+    
