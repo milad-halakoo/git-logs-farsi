@@ -12,7 +12,7 @@
     git add . => hame ro add mikone
 
 5_4.
-    git rm --cached file.txt => file1 ro darmiareh
+    git rm --cached file.txt => file1 ro barmiareh
 
 6_5.
     git commit -m "fix bog"=> vase file ke add kardim yek comment dar nazar migirim
